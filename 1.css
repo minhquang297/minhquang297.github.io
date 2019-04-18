@@ -172,6 +172,12 @@ nav.navbar.navbar-light.bg-faded {
 
 @media (max-width: 576px) {
     * {}
+	.container {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+}
     h2.tieudecap2.text-sm-left.text-xs-center {
         margin-top: 25px;
     }
