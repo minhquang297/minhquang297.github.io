@@ -169,6 +169,9 @@ nav.navbar.navbar-light.bg-faded {
     padding: 0;
     height: 100px;
 }
+.img-fluid {
+    height: 90%;
+}
 
 @media (max-width: 576px) {
     * {}
