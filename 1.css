@@ -216,4 +216,7 @@ nav.navbar.navbar-light.bg-faded {
         text-align: center;
         width: 100%;
     }
+    .img-fluid {
+        width: 100%;
+    }
 }
