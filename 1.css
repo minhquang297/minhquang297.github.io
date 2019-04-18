@@ -30,6 +30,7 @@
     z-index: 2;
     cursor: pointer;
     transition: 0.4s;
+    
 }
 
 .khoittnho {
@@ -168,19 +169,18 @@ nav.navbar.navbar-light.bg-faded {
     padding: 0;
     height: 100px;
 }
-
 .img-fluid {
-    height: 520px;
+    height: 498px;
 }
 
 @media (max-width: 576px) {
     * {}
-    .container {
-        margin-left: auto;
-        margin-right: auto;
-        padding-left: 10px;
-        padding-right: 10px;
-    }
+	.container {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+}
     h2.tieudecap2.text-sm-left.text-xs-center {
         margin-top: 25px;
     }
